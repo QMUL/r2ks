@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/22328/QMUL/r2ks.svg)](https://zenodo.org/badge/latestdoi/22328/QMUL/r2ks)
 # R2kS - A  Novel Measure for Comparing Gene Expression Based on Ranked Gene Lists
 
 This code is an MPI based version of the algorithm described in [this paper by Ni and Vingron](http://pubman.mpdl.mpg.de/pubman/item/escidoc:1702988/component/escidoc:1711821/Ni.pdf).
